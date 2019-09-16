@@ -45,4 +45,4 @@ I am an aspiring programmer currently studying in my second year of Computer Eng
 * University of Toronto - APS105, ECE244
   - Transcript available upon request
 * Stanford University on Coursera - Machine Learning
-  - https://www.coursera.org/account/accomplishments/certificate/LH94EZ9NSPF4
+  - [Course Certificate](https://www.coursera.org/account/accomplishments/certificate/LH94EZ9NSPF4 "Coursera Machine Learning")
