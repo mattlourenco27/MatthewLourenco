@@ -2,6 +2,8 @@
 my name is Matthew Lourenco.
 I am an aspiring programmer currently studying in my second year of Computer Engineering at the University of Toronto.
 
+##### [Github Profile](https://github.com/mattlourenco27)
+
 ## Programming experience
 
 ##### You.i TV, Co-op student - IT Assistant
