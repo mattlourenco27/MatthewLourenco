@@ -7,25 +7,25 @@ I am an aspiring programmer currently studying in my second year of Computer Eng
 ## Programming experience
 
 ##### You.i TV, Co-op student - IT Assistant
-* Bash scripts including awk, cron, & grep
-* RaspberryPi & Raspbian
-* Ubuntu, Windows 10, Mac OS
-* Chromebook setup and configuration
-* Virtual Desktop Environment
+* Bash scripts for data management (awk, cron, grep, etc. )
 * Hardware configuration and software setup
+* Chromebook setup and configuration
 * Imaging and software deployment
+* Virtual Desktop Environment
+* Ubuntu, Windows 10, Mac OS
+* RaspberryPi & Raspbian
 
 ##### Self-Taught
-* Python
+* C++
 * Java
 * Swift
-* C++
-* Visual Studio 2017 .net framework
-* Github, Gitlab, Git
+* Python
 * Version control
-* Solid Troubleshooting skills (hardware and software)
 * BIOS configuration
+* Github, Gitlab, Git
 * Configuration of Odroid X4U
+* Visual Studio 2017 .net framework
+* Solid Troubleshooting skills (hardware and software)
 * Machine Learning by Stanford University on Coursera. July 27, 2019
 
 ##### University of Toronto - Computer Engineering
@@ -33,11 +33,11 @@ I am an aspiring programmer currently studying in my second year of Computer Eng
 * MATLAB R2019a
 
 ## Programming Languages
-* Bash scripts
-* Python
 * Java
+* C/C++
 * Swift
-* C, C++
+* Python
+* Bash scripts
 * MATLAB R2019a
 * Visual Studio 2017 .net framework
 
