@@ -11,8 +11,8 @@ I am an aspiring programmer currently studying in my second year of Computer Eng
 * Hardware configuration and software setup
 * Chromebook setup and configuration
 * Imaging and software deployment
-* Virtual Desktop Environment
 * Ubuntu, Windows 10, Mac OS
+* Virtual Desktop Environment
 * RaspberryPi & Raspbian
 
 ##### Self-Taught
@@ -21,8 +21,8 @@ I am an aspiring programmer currently studying in my second year of Computer Eng
 * Swift
 * Python
 * Version control
-* BIOS configuration
 * Github, Gitlab, Git
+* BIOS configuration
 * Configuration of Odroid X4U
 * Visual Studio 2017 .net framework
 * Solid Troubleshooting skills (hardware and software)
