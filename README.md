@@ -14,29 +14,34 @@ I am an aspiring programmer currently studying in my second year of Computer Eng
 * Ubuntu, Windows 10, Mac OS
 * Virtual Desktop Environment
 * RaspberryPi & Raspbian
+* BIOS configuration
 
 ##### Self-Taught
-* C++
-* Java
-* Swift
-* Python
-* Version control
-* Github, Gitlab, Git
-* BIOS configuration
+* HTML / CSS
 * Configuration of Odroid X4U
 * Visual Studio 2017 .net framework
 * Solid Troubleshooting skills (hardware and software)
+
+##### Coursera - Machine learning
 * Machine Learning by Stanford University on Coursera. July 27, 2019
 
 ##### University of Toronto - Computer Engineering
 * C, C++
 * MATLAB R2019a
 
+##### Mother Teresa High School - Computer Science
+* Java
+* Swift
+* Python
+* Version control
+* Github, Gitlab, Git
+
 ## Programming Languages
 * Java
 * C/C++
 * Swift
 * Python
+* HTML / CSS
 * Bash scripts
 * MATLAB R2019a
 * Visual Studio 2017 .net framework
